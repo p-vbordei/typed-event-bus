@@ -1,5 +1,7 @@
 # typed-event-bus
 
+[![ci](https://github.com/p-vbordei/typed-event-bus/actions/workflows/ci.yml/badge.svg)](https://github.com/p-vbordei/typed-event-bus/actions/workflows/ci.yml)
+
 A tiny, dependency-free, type-safe event bus. Works anywhere modern JS runs — Node, browsers, Deno, Bun, edge runtimes.
 
 ```ts
