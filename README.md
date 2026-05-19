@@ -2,6 +2,10 @@
 
 [![ci](https://github.com/p-vbordei/typed-event-bus/actions/workflows/ci.yml/badge.svg)](https://github.com/p-vbordei/typed-event-bus/actions/workflows/ci.yml)
 
+[![npm](https://img.shields.io/npm/v/%40p-vbordei%2Ftyped-event-bus.svg)](https://www.npmjs.com/package/@p-vbordei/typed-event-bus)
+[![downloads](https://img.shields.io/npm/dm/%40p-vbordei%2Ftyped-event-bus.svg)](https://www.npmjs.com/package/@p-vbordei/typed-event-bus)
+[![bundle](https://img.shields.io/bundlejs/size/%40p-vbordei%2Ftyped-event-bus)](https://bundlejs.com/?q=%40p-vbordei%2Ftyped-event-bus)
+
 A tiny, dependency-free, type-safe event bus. Works anywhere modern JS runs — Node, browsers, Deno, Bun, edge runtimes.
 
 ```ts
