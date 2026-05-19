@@ -5,7 +5,7 @@
 A tiny, dependency-free, type-safe event bus. Works anywhere modern JS runs — Node, browsers, Deno, Bun, edge runtimes.
 
 ```ts
-import { EventBus } from "typed-event-bus";
+import { EventBus } from "@p-vbordei/typed-event-bus";
 
 type Events = {
   "task.created": { id: string };
@@ -26,7 +26,7 @@ off();
 ## Install
 
 ```sh
-npm install typed-event-bus
+npm install @p-vbordei/typed-event-bus
 ```
 
 ## Why
